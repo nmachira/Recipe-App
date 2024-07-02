@@ -1,6 +1,6 @@
 ## Name       : NagaSrivatsav Machiraju
 ## Email      : mnagasrivatsav@gmail.com
-## Github URL : https://github.com/nmachira/Recipe-App/tree/main
+## Github URL : https://github.com/nmachira/Recipe-App
 
 ## Screenshots:
 
