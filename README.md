@@ -87,4 +87,3 @@ The `MealDetailView` displays detailed information about a specific meal.
 - **Images in Detail View:** Added images in the meal detail view for better visual representation.
 - **YouTube Links:** Added YouTube links to watch related videos.
 - **Source Links:** Added source links at the bottom of the detail view for referencing the original recipe.
-
